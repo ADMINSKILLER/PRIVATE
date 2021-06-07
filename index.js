@@ -65,7 +65,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
             + 'FN:meu criador\n' // criador
             + 'ORG: PRIVATE;\n' // nome do bot
-            + 'TEL;type=CELL;type=VOICE;waid=558892594715:+55 88 9259-4715\n' //Nomor whatsapp kamu
+            + 'TEL;type=CELL;type=VOICE;waid=558187685591:+55 81 8768-5591\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 prefix = '.'
 blocked = []
